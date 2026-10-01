@@ -6,7 +6,7 @@ Mobil, web ve yapay zeka alanında modern, hızlı, yüksek performanslı ve **%
 
 ---
 
-## 📱 Çevrimdışı Mobil Uygulamalarım (14 Temel Uygulama)
+## 📱 Çevrimdışı Mobil Uygulamalarım (18 Temel Uygulama)
 
 | Simge | Uygulama | Açıklama | Sürüm | İndir (APK) |
 | :---: | :--- | :--- | :---: | :---: |
@@ -24,6 +24,10 @@ Mobil, web ve yapay zeka alanında modern, hızlı, yüksek performanslı ve **%
 | 🍳 | **[TarifPusulası](https://github.com/mraery/tarifpusulasi)** | Akıllı Dolapta Ne Var? malzeme eşleştirici, porsiyon hesaplayıcı, adım pişirme sayacı ve alışveriş listesi. | `v1.0.0` | [APK İndir](https://github.com/mraery/tarifpusulasi/releases) |
 | 📚 | **[Kitapİzi](https://github.com/mraery/kitapizi)** | Akıllı kitaplık takibi, görsel alıntı stüdyosu, Türk edebiyatı metinli okuma hızı testi ve yıllık hedef. | `v1.0.0` | [APK İndir](https://github.com/mraery/kitapizi/releases) |
 | 🌙 | **[SleepWave](https://github.com/mraery/sleepwave)** | Delta/Theta binaural vuruşları, kahverengi gürültü, berrak rüya (lucid dream) günlüğü ve gerçeklik kontrolü. | `v1.0.0` | [APK İndir](https://github.com/mraery/sleepwave/releases) |
+| 🎬 | **[CineLingo Mobile](https://github.com/mraery/cinelingo-mobile)** | Sinematik repliklerle interaktif video ve telaffuz tabanlı yabancı dil öğrenme uygulaması. | `v1.0.0` | [APK İndir](https://github.com/mraery/cinelingo-mobile/releases) |
+| 🎙️ | **[Sesli Asistan](https://github.com/mraery/sesli-asistan)** | Çevrimdışı Türkçe ses tanıma, yerel AI yanıt motoru ve çoklu araç entegrasyonu. | `v1.0.0` | [APK İndir](https://github.com/mraery/sesli-asistan/releases) |
+| 💇‍♀️ | **[Saç Boyama AR](https://github.com/mraery/sac-boyama-ar)** | Gerçek zamanlı kamera üzeri yapay zeka ve artırılmış gerçeklik ile saç boyası ve stil deneme. | `v1.0.0` | [APK İndir](https://github.com/mraery/sac-boyama-ar/releases) |
+| 🎤 | **[Underground Roast](https://github.com/mraery/underground-roast)** | AI Rap Battle & Barista simülatörü, kafiye üretici ve interaktif roast arenası. | `v1.0.0` | [APK İndir](https://github.com/mraery/underground-roast/releases) |
 
 ---
 
