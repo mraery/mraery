@@ -1,4 +1,4 @@
-# Merhaba, Ben Roy (@mraery) 👋 🚀
+# Merhaba, Ben Kağan
 
 > Full-Stack & Mobil Yazılım Geliştirici | Flutter, Dart, Offline-First Mimari, Oyunlaştırma (Gamification) & AR
 
